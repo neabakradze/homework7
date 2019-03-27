@@ -1,0 +1,222 @@
+  /*header*/
+ header{
+ 	z-index: 30;
+   width: 100%;
+   height: 100px;
+   background-color:  #F7F7F7;
+   border: inset 3px #5B5B5B;
+   position: fixed;
+   top: 0;
+   
+ }
+.title{
+  float: left;
+  margin-top: 40px;
+  margin-left: 98px;
+  margin-right: 15px;
+  font-size: 29px;
+}
+.logo{
+   height: 90px;
+   float: left;
+}
+.nav-header{
+   float: left;
+    margin-top: 45px;
+    margin-left: 120px;
+}
+.navigation{
+    font-size: 20px;
+    float: left;
+    margin-right: 120px;
+    text-decoration: none;
+    
+}
+body{
+    padding-top: 100px;
+	background-color: #E5E3E3;
+}
+
+
+
+/*BOX1*/
+.box1{
+   height: 370px;
+   width: 1170px;
+   position: relative;
+   background-color: /*#F17B90 */#EFA0B1;
+   margin: 0 auto;
+   border-left: #0E3F50 solid 2px;
+   border-right: #0E3F50 solid 2px;
+}
+.box1-title{
+     position: absolute;
+    top: 25px;
+    left: 450px;
+    font-size: 30px;
+    
+}
+.box1-img{
+   position: absolute;
+   bottom: 30px;
+   right: 50px;
+   width: 356px;
+}
+.box1-text{
+	position: absolute;
+    bottom: 210px;
+    left: 50px;
+    width: 700px;
+    font-size: 18px;
+}
+.box1-text2{
+	position: absolute;
+    bottom: 125px;
+    left: 50px;
+    width: 700px;
+    font-size: 18px;
+}
+.box1-text3{
+	position: absolute;
+    bottom: 45px;
+    left: 50px;
+    width: 700px;
+    font-size: 18px;
+}
+.youtube-logo{
+   position: absolute;
+   top:12px ;
+   left:50px ;
+   width: 50px;
+}
+.youtube-logo2{
+   position: absolute;
+   top: 12px;
+   right: 50px;
+   width: 50px;
+}
+
+
+
+.box2{
+   width: 1170px;
+   margin: 0 auto;
+   background-color: /*#F17B90 */#EFA0B1;
+   border-left: #0E3F50 solid 2px;
+   border-right: #0E3F50 solid 2px;
+   position: relative;
+}
+.images{
+   display: inline-block;
+   margin-left: 15px;
+   margin-top: 50px;
+
+}
+.stars{
+	/*height: 210px;*/
+	width: 270px;
+}
+.jstar{
+	height: 270px;
+}
+.images img{
+	display: block;
+}
+h2{
+	background-color: #789FA8;
+}
+.box2-title{
+  position: absolute;
+  top: 15px;
+  left: 50px;
+  font-size: 25px;
+
+}
+
+
+
+/*box3*/
+.box3{
+  position: relative;
+    width: 1170px;
+    margin: 0 auto;
+    height: 500px;
+      background-color: /*#F17B90 */#EFA0B1;
+      border-left: #0E3F50 solid 2px;
+   border-right: #0E3F50 solid 2px;
+}
+.box3-title{
+    font-size: 30px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+
+}
+.box3-image{
+	position: absolute;
+    top: 120px;
+    left: 50px;
+    width: 230px;
+}
+.box3-image2{
+	 position: absolute;
+    bottom: 60px;
+    right: 50px;
+    width: 300px;
+}
+.box3-image3{
+	 position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 150px;
+   
+}
+.box3-text{
+ position: absolute;
+    width: 500px;
+    top: 120px;
+    right: 365px;
+}
+.box3-text2{
+	 position: absolute;
+    width: 500px;
+    top: 180px;
+    right: 365px;
+}
+.box3-text3{
+	position: absolute;
+    width: 600px;
+    top: 270px;
+    right: 380px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
