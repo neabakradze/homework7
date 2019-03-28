@@ -187,11 +187,126 @@ h2{
 	position: absolute;
     width: 600px;
     top: 270px;
-    right: 380px;
+    right: 350px;
+}
+/*sticky*/
+.commercial-div{
+	width: 1170px;
+    margin: 0 auto;
+    background-color: /*#F17B90 */#EFA0B1;
+   border-left: #0E3F50 solid 2px;
+   border-right: #0E3F50 solid 2px;
+}
+
+.commercial-image{
+	position: -webkit-sticky;
+	position: sticky;
+    bottom: 0;
+    left: 0;
+    float: left;
+    margin-top: 270px;
+    width: 160px;
+    margin-left: 50px;
 }
 
 
+/*BOX4*/
+.box4{
+	position: relative;
+    width: 1170px;
+    margin: 0 auto;
+    height: 500px;
+    border-left: #0E3F50 solid 2px;
+   border-right: #0E3F50 solid 2px;
+   /*background-image: url(https://www.xmple.com/wallpaper/pink-linear-gradient-1920x1080-c2-ffc0cb-ff1493-a-285-f-14.svg);*/
+   background-image: url(https://webgradients.com/public/webgradients_png/001%20Warm%20Flame.png);
+   background-repeat: no-repeat;
 
+}
+.text-div{
+
+}
+.box4-title{
+	position: absolute;
+    top: 40px;
+    left: 50px;
+    font-size: 30px;
+}
+.box4-text{
+    position: absolute;
+    top: 90px;
+    left: 50px;
+    font-size: 19px;
+    width: 1070px;
+}
+.video-image{
+    width: 420px;
+    height: 236px;
+    float: left;
+    margin-top: 200px;
+    margin-left: 125px;
+}
+.video-image2{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.image-text{
+   position: absolute;
+    right: 160px;
+    bottom: 10px;
+    color: #fff;
+}
+.image-text2{
+   position: absolute;
+   left: 130px;
+    bottom: 10px;
+    color: #fff;
+}
+.clear{
+	clear: left;
+}
+.box4-div{
+  position: relative;
+}
+.box4-div2{
+  position: relative;
+}
+footer{
+	height: 50px;
+   background-color:  #F7F7F7;
+   border: inset 3px #5B5B5B;
+   padding: 5px;
+}
+.footerlogo{
+   height: 37px;
+   margin-left: 20px;
+}
+.footerlogo2{
+	height: 37px;
+	margin-left: 20px;
+
+}
+.footerlogo3{
+	height: 30px;
+	margin-bottom: 3px;
+	margin-left: 20px;
+	
+}
+.decor-div{
+    height: 37px;
+    width: 3px;
+    background-color:#0E3F50 ;
+    margin-left: 25px;
+}
+.decor-div2{
+	height: 37px;
+	width: 3px;
+	background-color:#0E3F50 ; 
+	margin-left: 25px;
+}
+.d-block{
+	display: inline-block;
+}
 
 
 
